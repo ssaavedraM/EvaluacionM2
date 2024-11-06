@@ -210,5 +210,5 @@ Con esto, se importa el archivo personalizado de Bootstrap antes de los demás e
 
 - Bootstrap: Framework CSS utilizado para agilizar el desarrollo y asegurar la responsividad. [Sitio web oficial](https://getbootstrap.com/)
 - Normalize.scss: Archivo para normalizar estilos en navegadores. [Repositorio GitHub](https://github.com/kristerkari/normalize.scss)
-- Patrón 7-1 para SASS: Estructura de organización de archivos SASS. [Repositorio de referencia]((https://github.com/tanrax/pattern-7-1))
+- Patrón 7-1 para SASS: Estructura de organización de archivos SASS. [Repositorio de referencia](https://github.com/tanrax/pattern-7-1)
 - Fuente Poppins: Fuente utilizada en el sitio. [Google Fonts](https://fonts.google.com/specimen/Poppins)
